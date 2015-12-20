@@ -1,0 +1,59 @@
+c:\documents and settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\bin\Debug\SQLOtoKayit.exe
+c:\documents and settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\bin\Debug\SQLOtoKayit.pdb
+c:\documents and settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Form1.resources
+c:\documents and settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Properties.Resources.resources
+c:\documents and settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.exe
+c:\documents and settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.pdb
+C:\Documents and Settings\user\belgelerim\visual studio 2010\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Ayarlar.resources
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.exe
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.pdb
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.csprojResolveAssemblyReference.cache
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Ayarlar.resources
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Form1.resources
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Properties.Resources.resources
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.csproj.GenerateResource.Cache
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\bin\Debug\SQLOtoKayit.exe
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\bin\Debug\SQLOtoKayit.pdb
+C:\Users\atakan.tuymaz\Documents\Visual Studio 2013\Projects\SQLOtoKayit\SQLOtoKayit\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.exe
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.pdb
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit\SQLOtoKayit\bin\Debug\SQLOtoKayit.exe
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit\SQLOtoKayit\bin\Debug\SQLOtoKayit.pdb
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.csprojResolveAssemblyReference.cache
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Ayarlar.resources
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Form1.resources
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Properties.Resources.resources
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.exe
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.pdb
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\bin\Debug\SQLOtoKayit.exe
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\bin\Debug\SQLOtoKayit.pdb
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Ayarlar.resources
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Form1.resources
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Properties.Resources.resources
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2010\Projects\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.exe
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.pdb
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\bin\Debug\SQLOtoKayit.exe
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Form1.resources
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Properties.Resources.resources
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.csproj.GenerateResource.Cache
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\bin\Debug\SQLOtoKayit.pdb
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.exe
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.pdb
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\bin\Debug\SQLOtoKayit.exe
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\bin\Debug\SQLOtoKayit.pdb
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Ayarlar.resources
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Form1.resources
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\bin\Debug\SQLOtoKayit.exe.config
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.Ayarlar.resources
+C:\Users\atakan.tuymaz\Desktop\SQLOtoKayit - son\SQLOtoKayit\obj\x86\Debug\SQLOtoKayit.csprojResolveAssemblyReference.cache
